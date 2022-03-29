@@ -2,6 +2,7 @@ package com.example.gitissuefinder
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -17,6 +18,9 @@ class MainActivity : AppCompatActivity() {
          */
 
         // Added comment conflict
+        showDialog()
     }
-
+    fun showDialog() {
+        Log.e("ShowDialog","Displayed")
+    }
 }
