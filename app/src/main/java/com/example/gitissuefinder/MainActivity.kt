@@ -12,5 +12,9 @@ class MainActivity : AppCompatActivity() {
          * Big Conflict
          *
          * */
+        /***
+         * Comment added
+         */
+
     }
 }
