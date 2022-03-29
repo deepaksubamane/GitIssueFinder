@@ -16,5 +16,7 @@ class MainActivity : AppCompatActivity() {
          * Comment added
          */
 
+        // Added comment conflict
     }
+
 }
