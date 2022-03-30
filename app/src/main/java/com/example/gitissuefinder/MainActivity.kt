@@ -20,9 +20,15 @@ class MainActivity : AppCompatActivity() {
         // Added comment conflict
         showDialog()
         sub()
+        add()
     }
 
     private fun sub() {
+        TODO("Not yet implemented")
+    }
+
+
+    private fun add() {
         TODO("Not yet implemented")
     }
 
