@@ -19,7 +19,13 @@ class MainActivity : AppCompatActivity() {
 
         // Added comment conflict
         showDialog()
+        sub()
     }
+
+    private fun sub() {
+        TODO("Not yet implemented")
+    }
+
     fun showDialog() {
         Log.e("ShowDialog","Displayed")
     }
